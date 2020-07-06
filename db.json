@@ -1,0 +1,121 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "java",
+      "subtitle": "javafx",
+      "price": "100",
+      "description": "to learn java ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5TEO9LIDmrIXyNr8psWMTOldxUG2s1VFEsA&usqp=CAU"
+    },
+    {
+      "id": "2",
+      "name": "html",
+      "subtitle": "html",
+      "price": 1500,
+      "description": "to learn html ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+      "name": "php",
+      "subtitle": "php",
+      "price": "100",
+      "description": "this is php",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png",
+      "id": "7dSlASJ"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "firstname": "yasmeen",
+      "lastname": "shaikha",
+      "dateofbirth": "19/10/1993",
+      "mobile": "016546545",
+      "status": "active"
+    },
+    {
+      "status": "active",
+      "id": "2",
+      "firstname": "yasmeen",
+      "lastname": "shaikhaaaaaaa",
+      "dateofbirth": "19/10/1993",
+      "mobile": "016546545"
+    },
+    {
+      "id": "3",
+      "firstname": "yasmeen",
+      "lastname": "shaikha",
+      "dateofbirth": "19/10/1993",
+      "mobile": "016546545",
+      "status": "active"
+    },
+    {
+      "firstname": "yasmeenaa",
+      "lastname": "shaikha",
+      "dateofbirth": "1444-04-19",
+      "mobile": 5665541,
+      "id": "KRt7wtB"
+    },
+    {
+      "firstname": "yasmeenaa",
+      "lastname": "shaikha",
+      "dateofbirth": "4444-12-11",
+      "mobile": 599632541,
+      "id": "WkNURPx"
+    }
+  ],
+  "parents": [
+    {
+      "status": "active",
+      "id": "1",
+      "firstname": "ahmed",
+      "lastname": "yassen",
+      "dateofbirth": "1/1/1990",
+      "mobile": 0.5999999
+    }
+  ],
+  "students": [
+    {
+      "status": "active",
+      "id": "1",
+      "firstname": "ahmed",
+      "lastname": "mohamedddd",
+      "dateofbirth": "1/1/1990",
+      "mobile": "216496"
+    },
+    {
+      "status": "not active",
+      "id": "2",
+      "firstname": "khalil",
+      "lastname": "mohamed",
+      "dateofbirth": "1/1/1990",
+      "mobile": "216496"
+    },
+    {
+      "firstname": "yasmeenaa",
+      "lastname": "shaikha",
+      "dateofbirth": "5555-05-15",
+      "mobile": 53951885,
+      "id": "qUckzG8"
+    },
+    {
+      "email": "yas_ka@hotmail.com",
+      "firstname": "yasmeen",
+      "lastname": "shaikha",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "id": "8Gq0q7c"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "course1",
+      "subtitle": "java",
+      "price": "100",
+      "description": "this course is about java",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
+    }
+  ]
+}
